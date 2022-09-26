@@ -1,0 +1,7 @@
+Cycle length = 20
+Total traffic flow = 3200
+Traffic Flow for R1, Q1= 800
+Traffic Flow for R2, Q2= 200
+Traffic Flow for R3, Q3= 100
+Traffic Flow for R4, Q4= 1700
+Traffic Flow for R5, Q5= 400
